@@ -1,3 +1,9 @@
+---
+services:
+platforms:
+author: azure
+---
+
 # Android - Azure Active Directory Demo
 This is a sample which demonstrates how you an authenticate with Windows Azure Active Directory (WAAD) from an Android application.  You will then use the access token retrieved from WAAD to gain access to a web service that has been secured with WAAD.  This application was built with a minimum SDK version of 15 and a target version of 18 but newer or older versions of Android should work without issue.
 
